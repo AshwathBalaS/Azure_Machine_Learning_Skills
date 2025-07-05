@@ -14,3 +14,4 @@ Main Types - Containers, File Shares, Queues, Tables
 
 4. **Azure ML Studio:** Data Stores - Connects to Azure Storage Services, 
 
+5. **Data Preprocessing:** Missing Values - "Clean Missing Data" Action (Can be Replaced with Mean, Median or Mode); Outliers - "ClipPeaks" Action (Can handle ClipPeaks, ClipSubpeaks or ClipPeaksandSubPeaks) (Can use Constant or Thresholds) (We use Substitute Value for Peaks, Overwrite 
